@@ -1,0 +1,17 @@
+lime/utils/Log.hx (line 34)
+lime/utils/Assets.hx (line 138)
+lime/utils/Assets.hx (line 244)
+openfl/utils/Assets.hx (line 312)
+TitleState.hx (line 411)
+TitleState.hx (line 110)
+flixel/FlxGame.hx (line 642)
+flixel/FlxGame.hx (line 729)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 550)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: [lime.utils.Assets] ERROR: There is no TEXT asset with an ID of "assets/data/theFunnie.txt"
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng

@@ -1,0 +1,15 @@
+LoadingState.hx (line 187)
+LoadingState.hx (line 142)
+lime/app/Future.hx (line 127)
+LoadingState.hx (line 121)
+flixel/FlxGame.hx (line 642)
+flixel/FlxGame.hx (line 729)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 550)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: Missing library: preload/weeks
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF down pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF right pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "GF V pose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "GF left miss"
+		},
+		{
+			"offsets": [
+				7,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "GF down miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "GF up miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "GF right miss"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "GF Fear",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_in_Bf_clothes_CHRISTMAS",
+	"position": [
+		-70,
+		160
+	],
+	"healthicon": "rapgf",
+	"flip_x": true,
+	"healthbar_colors": [
+		149,
+		7,
+		78
+	],
+	"camera_position": [
+		-60,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

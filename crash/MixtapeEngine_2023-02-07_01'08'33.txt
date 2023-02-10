@@ -1,0 +1,16 @@
+C:\HaxeToolkit\haxe\std/cpp/_std/sys/io/File.hx (line 30)
+Song.hx (line 118)
+FreeplayState.hx (line 766)
+flixel/FlxState.hx (line 203)
+flixel/FlxGame.hx (line 752)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 550)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: [file_contents,assets/data/song-not-found/song-not-found-song-not-found.json]
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng
+
+The Game Will Now Restart...
