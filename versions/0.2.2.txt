@@ -1,0 +1,4 @@
+The Trials Mod.exe
+assets/images/Capturestuffed.png
+manifest/default.json
+manifest/shared.json
