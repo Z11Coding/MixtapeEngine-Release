@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF ARROW Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				109
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF ARROW Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-88,
+				103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF ARROW Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				123
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF ARROW Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				107
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF ARROW Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				107
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "GF ARROW MISS Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				94
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "GF ARROW MISS Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				123
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "GF ARROW MISS Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				101
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "GF ARROW MISS Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Neo/Playable GF Neo Car ARROW",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "neogf",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

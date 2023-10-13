@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Reasonable, Unreasonable, Semi-Impossible, Impossible",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Beat Battle",
+			"gf",
+			[
+				255,
+				33,
+				93
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

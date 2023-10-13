@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-75,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF ALT Idle"
+		},
+		{
+			"offsets": [
+				-77,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF ALT Left"
+		},
+		{
+			"offsets": [
+				-88,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF ALT Down"
+		},
+		{
+			"offsets": [
+				-85,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF ALT Up"
+		},
+		{
+			"offsets": [
+				-83,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF ALT Right"
+		},
+		{
+			"offsets": [
+				-72,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "ALT Left Miss"
+		},
+		{
+			"offsets": [
+				-73,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ALT Down Miss"
+		},
+		{
+			"offsets": [
+				-74,
+				144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "ALT Up Miss"
+		},
+		{
+			"offsets": [
+				-89,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "ALT Right Miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Neo/Playable GF Neo Car ALT",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "neogf",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

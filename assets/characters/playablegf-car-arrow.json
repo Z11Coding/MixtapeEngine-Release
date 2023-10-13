@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF ARROW Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				106
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF ARROW Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				114
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF ARROW Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF ARROW Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				106
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF ARROW Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				113
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "GF ARROW MISS Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				102
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "GF ARROW MISS Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				129
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "GF ARROW MISS Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				106
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "GF ARROW MISS Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Normal/Playable GF Car ARROW",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,16 @@
+Z:\HaxeToolkit\haxe\std/cpp/_std/sys/io/File.hx (line 30)
+backend/Song.hx (line 110)
+states/editors/ChartingState.hx (line 3389)
+states/editors/ChartingState.hx (line 634)
+substates/Prompt.hx (line 43)
+flixel/ui/FlxButton.hx (line 521)
+flixel/ui/FlxButton.hx (line 507)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: [file_contents,assets/data/everfound/everfound.json]
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng
+
+The Game Will Now Restart...

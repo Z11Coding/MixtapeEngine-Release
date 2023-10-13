@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				27,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "DeathFirst"
+		},
+		{
+			"offsets": [
+				29,
+				101
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "DeathLoop"
+		},
+		{
+			"offsets": [
+				42,
+				154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "DeathConfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jelly/Playable GF Jelly Death",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-50,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

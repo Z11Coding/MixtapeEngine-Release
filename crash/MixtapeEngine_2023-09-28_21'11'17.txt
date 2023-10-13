@@ -1,0 +1,16 @@
+Z:\HaxeToolkit\haxe\std/cpp/_std/sys/io/File.hx (line 30)
+backend/Song.hx (line 110)
+states/FreeplayState.hx (line 679)
+flixel/FlxState.hx (line 203)
+flixel/FlxGame.hx (line 752)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 556)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: [file_contents,assets/data/tutorial/tutorial-null.json]
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng
+
+The Game Will Now Restart...

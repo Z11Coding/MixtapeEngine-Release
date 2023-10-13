@@ -4,81 +4,86 @@
 		"player1": "bf",
 		"events": [
 			[
+				0,
+				[
+					[
+						"Dadbattle Spotlight",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Dadbattle Spotlight",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"Dadbattle Spotlight",
+						"0",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"playablegf-alt-opp"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"playablegf-opp"
+					]
+				]
+			],
+			[
+				74666.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"playablegf-alt-opp"
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"playablegf-opp"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"playablegf-alt-opp"
+					]
+				]
+			],
+			[
 				149333.333333333,
 				[
 					[
 						"Turn on StrumFocus",
 						"",
-						""
-					]
-				]
-			],
-			[
-				190666.666666667,
-				[
-					[
-						"Set Game Cam Zoom and angle",
-						"2.3",
-						""
-					]
-				]
-			],
-			[
-				191000,
-				[
-					[
-						"Set Game Cam Zoom and angle",
-						"2.6",
-						""
-					]
-				]
-			],
-			[
-				191333.333333334,
-				[
-					[
-						"Set Game Cam Zoom and angle",
-						"2.9",
-						""
-					]
-				]
-			],
-			[
-				191500,
-				[
-					[
-						"Set Game Cam Zoom and angle",
-						"2.3",
-						""
-					]
-				]
-			],
-			[
-				191666.666666667,
-				[
-					[
-						"Set Game Cam Zoom and angle",
-						"1.9",
-						""
-					]
-				]
-			],
-			[
-				191833.333333334,
-				[
-					[
-						"Set Game Cam Zoom and angle",
-						"1.3",
-						""
-					]
-				]
-			],
-			[
-				192000,
-				[
-					[
-						"Set Game Cam Zoom and angle",
-						"0.9",
 						""
 					]
 				]
@@ -105,31 +110,19 @@
 			]
 		],
 		"gfVersion": "gf",
-		"player2": "PlayableGFV2-opp",
+		"player2": "playablegf-opp",
 		"notes": [
 			{
 				"sectionNotes": [],
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
-				"mustHitSection": true
+				"mustHitSection": false
 			},
 			{
 				"sectionNotes": [],
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
-				"mustHitSection": true
+				"mustHitSection": false
 			},
 			{
 				"sectionNotes": [],
@@ -147,7 +140,19 @@
 				"sectionNotes": [],
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
-				"mustHitSection": true
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
 			},
 			{
 				"sectionNotes": [
@@ -14092,6 +14097,171 @@
 				"changeBPM": false
 			},
 			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"exSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 180,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"exSection": false,
+				"mustHitSection": true
+			},
+			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -14116,6 +14286,7 @@
 		],
 		"mania": 3,
 		"player3": null,
+		"player4": null,
 		"song": "Rise",
 		"validScore": true,
 		"sections": 0,

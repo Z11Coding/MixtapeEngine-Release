@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "GF MISS"
+		},
+		{
+			"offsets": [
+				-95,
+				105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "GF MISS"
+		},
+		{
+			"offsets": [
+				-95,
+				105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "GF MISS"
+		},
+		{
+			"offsets": [
+				-95,
+				105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "GF MISS"
+		},
+		{
+			"offsets": [
+				-86,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "GF ARROW Idle"
+		},
+		{
+			"offsets": [
+				-90,
+				137
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "GF ARROW Left"
+		},
+		{
+			"offsets": [
+				-92,
+				136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "GF ARROW Down"
+		},
+		{
+			"offsets": [
+				-93,
+				149
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "GF ARROW Up"
+		},
+		{
+			"offsets": [
+				-96,
+				137
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "GF ARROW Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cat Maid/Playable GF Cat Maid ARROW",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

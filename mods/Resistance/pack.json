@@ -1,0 +1,7 @@
+{
+	"name": "Resistance",
+	"description": "Rice Must resist Z12 Until Backup Arrives! Will he make it?",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

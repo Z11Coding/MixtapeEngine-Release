@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF ALT Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				106
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF ALT Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				114
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF ALT Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF ALT Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				106
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF ALT Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				112
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ALT Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				106
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ALT Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				128
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ALT Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				106
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ALT Right Miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Normal/Playable GF Car ALT",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

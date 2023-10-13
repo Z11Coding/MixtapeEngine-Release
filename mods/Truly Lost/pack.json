@@ -1,0 +1,7 @@
+{
+	"name": "Truly Lost",
+	"description": "Be careful. You never know when everything you love will just suddenly dissapear...",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

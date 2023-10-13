@@ -1,0 +1,20 @@
+lime/utils/Log.hx (line 34)
+lime/utils/Assets.hx (line 138)
+lime/utils/Assets.hx (line 192)
+openfl/utils/Assets.hx (line 104)
+backend/GPUBitmap.hx (line 46)
+backend/ImageCache.hx (line 12)
+states/CacheState.hx (line 834)
+flixel/FlxState.hx (line 203)
+flixel/FlxGame.hx (line 752)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 556)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: [lime.utils.Assets] ERROR: There is no IMAGE asset with an ID of "assets/images/Empty.png"
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng
+
+The Game Will Now Restart...

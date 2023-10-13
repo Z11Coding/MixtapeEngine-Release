@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF ALT Idle"
+		},
+		{
+			"offsets": [
+				-89,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF ALT Left"
+		},
+		{
+			"offsets": [
+				-91,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF ALT Down"
+		},
+		{
+			"offsets": [
+				-91,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF ALT Up"
+		},
+		{
+			"offsets": [
+				-95,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF ALT Right"
+		},
+		{
+			"offsets": [
+				-90,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "ALT Left Miss"
+		},
+		{
+			"offsets": [
+				-91,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ALT Down Miss"
+		},
+		{
+			"offsets": [
+				-88,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "ALT Up Miss"
+		},
+		{
+			"offsets": [
+				-94,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "ALT Right Miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Normal/Playable GF Christmas ALT",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

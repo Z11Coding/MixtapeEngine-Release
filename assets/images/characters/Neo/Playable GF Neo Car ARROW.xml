@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Playable GF Neo Car ARROW.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF ARROW Down0000" x="0" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0001" x="321" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0002" x="642" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0003" x="963" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0004" x="1284" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0005" x="1605" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0006" x="1926" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0007" x="2247" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0008" x="2568" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0009" x="1926" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0010" x="2247" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0011" x="2568" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0012" x="1926" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0013" x="2247" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0014" x="2568" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0015" x="1926" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0016" x="2889" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0017" x="3210" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0018" x="3531" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0019" x="2247" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0020" x="2568" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0021" x="1926" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0022" x="2247" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0023" x="2568" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0024" x="1926" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0025" x="2247" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0026" x="2568" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0027" x="1926" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0028" x="2247" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Down0029" x="2568" y="0" width="321" height="508"/>
+	<SubTexture name="GF ARROW Idle0000" x="3852" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0001" x="4192" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0002" x="4532" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0003" x="4872" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0004" x="5212" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0005" x="5552" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0006" x="5892" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0007" x="6232" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0008" x="6572" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0009" x="6912" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0010" x="7252" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0011" x="7592" y="0" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0012" x="0" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0013" x="340" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0014" x="680" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0015" x="1020" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0016" x="1360" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0017" x="1700" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0018" x="2040" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0019" x="2380" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0020" x="2720" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0021" x="3060" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0022" x="3400" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0023" x="3740" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0024" x="4080" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0025" x="4420" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0026" x="4760" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0027" x="5100" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0028" x="5440" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Idle0029" x="5780" y="515" width="340" height="515"/>
+	<SubTexture name="GF ARROW Left0000" x="6120" y="515" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0001" x="6452" y="515" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0002" x="6784" y="515" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0003" x="7116" y="515" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0004" x="7448" y="515" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0005" x="7780" y="515" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0006" x="0" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0007" x="332" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0008" x="664" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0009" x="0" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0010" x="332" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0011" x="664" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0012" x="0" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0013" x="332" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0014" x="664" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0015" x="0" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0016" x="996" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0017" x="1328" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0018" x="1660" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0019" x="332" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0020" x="664" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0021" x="0" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0022" x="332" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0023" x="664" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0024" x="0" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0025" x="332" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0026" x="664" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0027" x="0" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0028" x="332" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW Left0029" x="664" y="1030" width="332" height="514"/>
+	<SubTexture name="GF ARROW MISS Down0000" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0001" x="2307" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0002" x="2307" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0003" x="2622" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0004" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0005" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0006" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0007" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0008" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0009" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0010" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0011" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0012" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0013" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0014" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0015" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0016" x="2307" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0017" x="2307" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0018" x="2622" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0019" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0020" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0021" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0022" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0023" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0024" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0025" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0026" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0027" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0028" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Down0029" x="1992" y="1030" width="315" height="499"/>
+	<SubTexture name="GF ARROW MISS Left0000" x="2937" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0001" x="2937" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0002" x="2937" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0003" x="3253" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0004" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0005" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0006" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0007" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0008" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0009" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0010" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0011" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0012" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0013" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0014" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0015" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0016" x="2937" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0017" x="2937" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0018" x="3253" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0019" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0020" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0021" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0022" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0023" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0024" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0025" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0026" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0027" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0028" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Left0029" x="3569" y="1030" width="316" height="512"/>
+	<SubTexture name="GF ARROW MISS Right0000" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0001" x="4196" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0002" x="4196" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0003" x="4507" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0004" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0005" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0006" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0007" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0008" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0009" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0010" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0011" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0012" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0013" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0014" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0015" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0016" x="4196" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0017" x="4196" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0018" x="4507" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0019" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0020" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0021" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0022" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0023" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0024" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0025" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0026" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0027" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0028" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Right0029" x="3885" y="1030" width="311" height="506"/>
+	<SubTexture name="GF ARROW MISS Up0000" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0001" x="5132" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0002" x="5132" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0003" x="5446" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0004" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0005" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0006" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0007" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0008" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0009" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0010" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0011" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0012" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0013" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0014" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0015" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0016" x="5132" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0017" x="5132" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0018" x="5446" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0019" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0020" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0021" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0022" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0023" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0024" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0025" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0026" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0027" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0028" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW MISS Up0029" x="4818" y="1030" width="314" height="528"/>
+	<SubTexture name="GF ARROW Right0000" x="5760" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0001" x="6086" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0002" x="6412" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0003" x="6738" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0004" x="7064" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0005" x="7390" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0006" x="7716" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0007" x="0" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0008" x="326" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0009" x="7716" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0010" x="0" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0011" x="326" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0012" x="7716" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0013" x="0" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0014" x="326" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0015" x="7716" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0016" x="652" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0017" x="978" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0018" x="1304" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0019" x="0" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0020" x="326" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0021" x="7716" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0022" x="0" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0023" x="326" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0024" x="7716" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0025" x="0" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0026" x="326" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0027" x="7716" y="1030" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0028" x="0" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Right0029" x="326" y="1558" width="326" height="512"/>
+	<SubTexture name="GF ARROW Up0000" x="1630" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0001" x="1954" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0002" x="2278" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0003" x="2602" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0004" x="2926" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0005" x="3250" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0006" x="3574" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0007" x="3898" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0008" x="4222" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0009" x="3574" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0010" x="3898" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0011" x="4222" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0012" x="3574" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0013" x="3898" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0014" x="4222" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0015" x="3574" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0016" x="4546" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0017" x="4870" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0018" x="5194" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0019" x="3898" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0020" x="4222" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0021" x="3574" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0022" x="3898" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0023" x="4222" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0024" x="3574" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0025" x="3898" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0026" x="4222" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0027" x="3574" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0028" x="3898" y="1558" width="324" height="528"/>
+	<SubTexture name="GF ARROW Up0029" x="4222" y="1558" width="324" height="528"/>
+</TextureAtlas>

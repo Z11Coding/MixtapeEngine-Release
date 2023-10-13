@@ -1,0 +1,19 @@
+Z:\HaxeToolkit\haxe\std/cpp/_std/Reflect.hx (line 50)
+options/Option.hx (line 93)
+options/Option.hx (line 58)
+options/GameplaySettingsSubState.hx (line 79)
+options/OptionsState.hx (line 23)
+options/OptionsState.hx (line 90)
+flixel/FlxState.hx (line 203)
+flixel/FlxGame.hx (line 752)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 556)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: Invalid field:modcharts
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng
+
+The Game Will Now Restart...

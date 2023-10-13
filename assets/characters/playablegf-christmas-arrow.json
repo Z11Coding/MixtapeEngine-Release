@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF ARROW Idle"
+		},
+		{
+			"offsets": [
+				-85,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF ARROW Left"
+		},
+		{
+			"offsets": [
+				-85,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF ARROW Down"
+		},
+		{
+			"offsets": [
+				-85,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF ARROW Up"
+		},
+		{
+			"offsets": [
+				-86,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF ARROW Right"
+		},
+		{
+			"offsets": [
+				-86,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "GF ARROW MISS Left"
+		},
+		{
+			"offsets": [
+				-86,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "GF ARROW MISS Down"
+		},
+		{
+			"offsets": [
+				-86,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "GF ARROW MISS Up"
+		},
+		{
+			"offsets": [
+				-86,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "GF ARROW MISS Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Normal/Playable GF Christmas ARROW",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
