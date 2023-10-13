@@ -1,3 +1,4 @@
 0.3.1 - The Cache Fix
 - Fixed The Cache bar (Kind of)
 - Now that I know this works, I'll use it more often (Hopefully)
+- Fixed this text being stupidly small
