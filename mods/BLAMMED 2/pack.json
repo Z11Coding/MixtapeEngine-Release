@@ -1,7 +1,0 @@
-{
-	"name": "blammedfull",
-	"description": "charting time",
-	"restart":false,
-	"runsGlobally": false,
-	"color": [170, 0, 255]
-}
