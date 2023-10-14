@@ -1,5 +1,2 @@
-0.3.2 - The Cache Fix But Better
-- Fixed The Cache bar (Kind of)
-- Now that I know this works, I'll use it more often (Hopefully)
-- Fixed this text being stupidly small
-- You can now skip the splash screen
+0.3.3 - The TRUE Update Test
+- please work
